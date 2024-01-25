@@ -1,0 +1,7 @@
+Easy to navigate.
+passed
+passed
+Clear and consistent way to go back on every screen.
+passed
+Labels and buttons text are clear and concise
+failed
